@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Test for Index Page
+A Test for Index Page
